@@ -1,0 +1,30 @@
+body {
+  background-color: purple;
+}
+
+h1 {
+  color: yellow;
+  font-size: 50px;
+  font-family: times new roman, sans-serif;
+}
+
+img {
+  width: 100%;
+}
+
+p, li {
+  color: teal;
+  font-family: arial, helvetica, sans-serif;
+  
+}
+
+.header {
+  background-color: black;
+  border: 1px solid black;
+  padding-left: 25px;
+}
+
+.footer {
+  background-color: green;
+  font-family: arial;
+}
